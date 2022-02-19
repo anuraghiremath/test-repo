@@ -1,0 +1,133 @@
+.top_container{
+  background-color: #deeaee;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+}
+.middle-container{
+  margin: 50px auto;
+}
+body{
+ margin: 0;
+ color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather',  serif;
+}
+h1{color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-top: 10px;
+}
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+.top_cloud{
+  position:absolute;
+  top:50px;
+  right:350px;
+}
+.bottom_cloud{
+  position: absolute;
+  bottom: 300px;
+  left:350px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+p{
+  line-height: 2;
+}
+a{
+  color:#11999E;
+  margin:10px 20px;
+  text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold
+}
+a:hover{
+  color: #EAF6F6;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+}
+.contact-me{
+  margin: 40px auto 60px;
+  width: 40%;
+}
+.contact-me1{
+  margin-bottom: 30px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.my_pfp_pic{
+  border-radius: 100%;
+  width: 10%;
+}
+.python{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+}
+.front-end{
+  width: 16%;
+  float: right;
+  margin-left: 30px;
+}
+.Cloud-Services{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+}
+hr{
+  border: 5px dotted;
+    border-style: none none dotted;
+    color: #87CEFA;
+    width: 6%;
+    margin: 100px auto;
+}
+.license{
+  padding: 20px auto;
+  color: #EAF6F6;
+}
